@@ -1,0 +1,237 @@
+State,District,Township,ElectionType,Candidate,Party,Votes,Election,AdvanceVote,Gender
+Rakhine State,Kyaukpyu,Ann,Pyithu,ဦးဘမြင့်,CNDP,1576,2015,31,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,ဦးကျော်မြ,CLD,1886,2015,37,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,ဦးညီလွယ်,NUP,2713,2015,90,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,_invalid,,7334,2015,,
+Rakhine State,Kyaukpyu,Ann,Pyithu,ဦးတင်သိန်းအောင်,NLD,11081,2015,501,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,ဦးကျော်သန်းလှိုင်,ANP,12532,2015,613,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,ဦးသိန်းဆွေ,USDP,13037,2015,2852,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,_noshow,,23640,2015,,
+Bago,Bago,Bago-Amyotha4,Amyotha,ဦးရဲမြင့်,NDP,5234,2015,280,M
+Bago,Bago,Bago-Amyotha4,Amyotha,​ဒေါ်တိုးတိုးအောင်,MFDP,6990,2015,420,F
+Bago,Bago,Bago-Amyotha4,Amyotha,ဦးအောင်ကြည်ဝင်း,NUP,9415,2015,510,M
+Bago,Bago,Bago-Amyotha4,Amyotha,_invalid,,11981,2015,,
+Bago,Bago,Bago-Amyotha4,Amyotha,ဦးဇော်ဝင်း,USDP,53815,2015,4587,M
+Bago,Bago,Bago-Amyotha4,Amyotha,_noshow,,111989,2015,,
+Bago,Bago,Bago-Amyotha4,Amyotha,​ဒေါက်တာဦးဝင်းမြတ်အေး,NLD,121637,2015,6916,M
+Mon State,Mawlamine,Chaungzon,Pyithu,ဒေါက်တာစည်သူအောင်,MNP,2981,2015,260,M
+Mon State,Mawlamine,Chaungzon,Pyithu,_invalid,,3279,2015,,
+Mon State,Mawlamine,Chaungzon,Pyithu,ဦးလှမောင်(ခ)နိုင်လှမောင်,AMRDP,10120,2015,622,M
+Mon State,Mawlamine,Chaungzon,Pyithu,ဦးမင်းအောင်သူ,USDP,16613,2015,2176,M
+Mon State,Mawlamine,Chaungzon,Pyithu,ဒေါ်ခင်ဌေးကြွယ်,NLD,23580,2015,1559,F
+Mon State,Mawlamine,Chaungzon,Pyithu,_noshow,,70676,2015,,
+Chin,Thantlang,Chin-Amyotha3,Amyotha,ဦးတလွန်နှင်း,Independent,522,2015,30,M
+Chin,Thantlang,Chin-Amyotha3,Amyotha,_invalid,,859,2015,,
+Chin,Thantlang,Chin-Amyotha3,Amyotha,_noshow,,4243,2015,,
+Chin,Thantlang,Chin-Amyotha3,Amyotha,ဦးဂျေပီဘီာခ်တင်ဆန်း,CNDP,5301,2015,243,M
+Chin,Thantlang,Chin-Amyotha3,Amyotha,ဦးဇိုပဲန်း,USDP,7584,2015,451,M
+Chin,Thantlang,Chin-Amyotha3,Amyotha,ဦးဟင်နရီဗန်ထီးယူ,NLD,9393,2015,472,M
+Yangon,East,Dagon Myothit (East),Pyithu,ဒေါ်စန်းရည်ထူး,MFDP,804,2015,41,F
+Yangon,East,Dagon Myothit (East),Pyithu,ဦးလှဝင်း,NDP,1265,2015,51,M
+Yangon,East,Dagon Myothit (East),Pyithu,ဦးစိုးဦး,NDF,2071,2015,89,M
+Yangon,East,Dagon Myothit (East),Pyithu,_invalid,,2978,2015,,
+Yangon,East,Dagon Myothit (East),Pyithu,ဦးမြင့်သူ,USDP,16270,2015,1227,M
+Yangon,East,Dagon Myothit (East),Pyithu,_noshow,,31475,2015,,
+Yangon,East,Dagon Myothit (East),Pyithu,ဒေါက်တာမျိုးအောင်,NLD,56086,2015,2054,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,ဦးမြင့်စိုး,UDP,94,2015,4,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,ဦးစောလှိုင်,Independent,145,2015,1,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,ဦးလှိုင်မင်းထွန်း,Independent,179,2015,10,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,ဦးဦးမြင့်,NDF,254,2015,4,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,ဦးသိန်းလှိုင်,NNDP,285,2015,8,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,ဦးကြည်စိန်,NDP,340,2015,8,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,ဦးသူရထွန်း,88 GSY (Union of Myanmar),757,2015,20,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,_invalid,,1710,2015,,
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,ဒေါက်တာအောင်မျိုး,USDP,8062,2015,310,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,ဦးကျော်ဝင်း,NLD,27378,2015,410,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,_noshow,,43100,2015,,
+Yangon,North,Hlaingthayar,Pyithu,ဦးထွန်းထွန်းဝင်း,NNDP,565,2015,20,M
+Yangon,North,Hlaingthayar,Pyithu,ဦးကျော်ဆွေ,UDP,981,2015,42,M
+Yangon,North,Hlaingthayar,Pyithu,ဦးစန်းယု,NDP,1007,2015,36,M
+Yangon,North,Hlaingthayar,Pyithu,ဦးအောင်ကြီး,DPFMNS,1273,2015,15,M
+Yangon,North,Hlaingthayar,Pyithu,ဒေါ်ခိုင်ခိုင်ဆွေ,DP (Myanmar),1291,2015,35,F
+Yangon,North,Hlaingthayar,Pyithu,ဦးယဥ်အောင်,NDF,1632,2015,39,M
+Yangon,North,Hlaingthayar,Pyithu,ဦးခင်စိုး,FUP,2631,2015,78,M
+Yangon,North,Hlaingthayar,Pyithu,ဦးခင်ဦး,NUP,2649,2015,96,M
+Yangon,North,Hlaingthayar,Pyithu,ဦးမင်းမင်းထွန်း,PCSDP,3509,2015,83,M
+Yangon,North,Hlaingthayar,Pyithu,ဦးသင်္ခါကျော်,ANP,4911,2015,83,M
+Yangon,North,Hlaingthayar,Pyithu,ဦးရဲထွန်း,88 GSY (Union of Myanmar),5756,2015,223,M
+Yangon,North,Hlaingthayar,Pyithu,_invalid,,18031,2015,,
+Yangon,North,Hlaingthayar,Pyithu,ဦးဉာဏ်ဝင်း,USDP,18716,2015,1540,M
+Yangon,North,Hlaingthayar,Pyithu,ဒေါက်တာသန်းမြင့်,NLD,103832,2015,2870,M
+Yangon,North,Hlaingthayar,Pyithu,_noshow,,287523,2015,,
+Kayah,Loikaw,Hpruso1,Region/State,ဒေါ်စနိုးရာ,KUDP,178,2015,22,F
+Kayah,Loikaw,Hpruso1,Region/State,ဦးသေ့ရယ်,NDP,431,2015,42,M
+Kayah,Loikaw,Hpruso1,Region/State,ဦးစောဟူးဟူး,Independent,475,2015,68,M
+Kayah,Loikaw,Hpruso1,Region/State,_invalid,,679,2015,,
+Kayah,Loikaw,Hpruso1,Region/State,ဦးသန်းစိန်,ANDPKayah,1057,2015,61,M
+Kayah,Loikaw,Hpruso1,Region/State,_noshow,,1405,2015,,
+Kayah,Loikaw,Hpruso1,Region/State,ဦးဆူရယ်,USDP,1479,2015,225,M
+Kayah,Loikaw,Hpruso1,Region/State,ဦးသိုးရယ်,NLD,2989,2015,228,M
+Yangon,South District,Kawhmu,Pyithu,ဒေါ်ရီရီစံ,MPP,293,2015,8,F
+Yangon,South District,Kawhmu,Pyithu,ဦးညီဝင်း,MFDP,513,2015,10,M
+Yangon,South District,Kawhmu,Pyithu,ဒေါ်ယုယုခိုင်,NDP,515,2015,17,F
+Yangon,South District,Kawhmu,Pyithu,_invalid,,2825,2015,,
+Yangon,South District,Kawhmu,Pyithu,ဦးကျော်ဇင်ဟိန်း,USDP,15312,2015,745,M
+Yangon,South District,Kawhmu,Pyithu,_noshow,,18004,2015,,
+Yangon,South District,Kawhmu,Pyithu,ဒေါ်အောင်ဆန်းစုကြည်,NLD,54676,2015,2132,F
+East Shan State,Keng Tung,Kengtung c2,Region/State,ဦးအိုက်စိုင်း,NDF,659,2015,20,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,ဦးဖရန်စစ်(ခ)ဦအိုင်ရှဲန်,WNUP,664,2015,22,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,ဦးစိုင်းစိုင်းလုံ,ESSDDP,887,2015,29,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,ဦးစောဖေ,LNDP,1235,2015,34,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,ဦးစိုင်းဝန်းတစ်,SNDP,1592,2015,62,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,ဒေါ်နန်းခမ်းကြာ,SNLD,1789,2015,77,F
+East Shan State,Keng Tung,Kengtung c2,Region/State,_invalid,,4364,2015,,
+East Shan State,Keng Tung,Kengtung c2,Region/State,ဦးစိုင်းဆမ်တစ်ယီ,NLD,7362,2015,496,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,ဦးပီတာသောင်းစိန်,USDP,9679,2015,1496,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,_noshow,,27986,2015,,
+Sagaing,Monywa,Monywa,Pyithu,ဦးသျှိုင်းညီညီထက်,MFDP,1564,2015,169,M
+Sagaing,Monywa,Monywa,Pyithu,ဦးသန်းဆွေမြင့်(ခ)ကိုစိုး,NUP,2452,2015,205,M
+Sagaing,Monywa,Monywa,Pyithu,_invalid,,4327,2015,,
+Sagaing,Monywa,Monywa,Pyithu,ဦးသန်းထွန်းအောင် ,USDP,24246,2015,4208,M
+Sagaing,Monywa,Monywa,Pyithu,_noshow,,59016,2015,,
+Sagaing,Monywa,Monywa,Pyithu,ဦးသန့်စင်မောင်,NLD,167865,2015,10909,M
+South Shan State,Taunggyi,NyaungShwe1,Region/State,ဒေါ်သွယ်သွယ်အေး,SNLD,571,2015,24,F
+South Shan State,Taunggyi,NyaungShwe1,Region/State,ဦးနိုင်အောင်ဌေး(ခ)အယ်စိုင်း,FUP,1625,2015,39,M
+South Shan State,Taunggyi,NyaungShwe1,Region/State,_invalid,,1742,2015,,
+South Shan State,Taunggyi,NyaungShwe1,Region/State,ဦးတင်အောင်ကျော်,INLP,2536,2015,209,M
+South Shan State,Taunggyi,NyaungShwe1,Region/State,ဦးရေအေး,INDP,3709,2015,130,M
+South Shan State,Taunggyi,NyaungShwe1,Region/State,ဦးမြင့်ဆွေ,USDP,11944,2015,670,M
+South Shan State,Taunggyi,NyaungShwe1,Region/State,_noshow,,12287,2015,,
+South Shan State,Taunggyi,NyaungShwe1,Region/State,ဦးထွန်းရင်,NLD,27839,2015,941,M
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,ဦးသန့်ဇော်,FUP,711,2015,46,M
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,ဦးတင်စိန်,KPP,1238,2015,114,M
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,_invalid,,2684,2015,,
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,ဒေါက်တာတင်ရွှေ,NDF,4604,2015,328,M
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,​ဒေါ်သင်းသင်းမိုး,USDP,25111,2015,2820,F
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,_noshow,,133299,2015,,
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,ဒေါက်တာအောင်သူ,NLD,182110,2015,9920,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,U Zaw Lin Aung,Independent,1877,2017,56,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,_invalid,,2365,2017,,
+Rakhine State,Kyaukpyu,Ann,Pyithu,U Zaw Win Myint,NLD,9088,2017,450,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,U Thaung Nyein,USDP,11545,2017,1941,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,Dr.Aye Maung,ANP,21794,2017,1102,M
+Rakhine State,Kyaukpyu,Ann,Pyithu,_noshow,,29159,2017,,
+Bago,Bago,Bago-Amyotha4,Amyotha,Dr. Hla Moe,NDP,2516,2017,129,M
+Bago,Bago,Bago-Amyotha4,Amyotha,U Min Thu,UFLFP,2550,2017,180,M
+Bago,Bago,Bago-Amyotha4,Amyotha,U Sein Tun,NDF,4888,2017,257,M
+Bago,Bago,Bago-Amyotha4,Amyotha,_invalid,,5227,2017,,
+Bago,Bago,Bago-Amyotha4,Amyotha,U Aung Kyi Win,NUP,9183,2017,387,M
+Bago,Bago,Bago-Amyotha4,Amyotha,U Htay Naing,USDP,33781,2017,2971,M
+Bago,Bago,Bago-Amyotha4,Amyotha,Daw San San Myint,NLD,71042,2017,4736,F
+Bago,Bago,Bago-Amyotha4,Amyotha,_noshow,,191151,2017,,
+Mon State,Mawlamine,Chaungzon,Pyithu,_invalid,,1352,2017,,
+Mon State,Mawlamine,Chaungzon,Pyithu,U Tint Wai,NUP,1992,2017,216,M
+Mon State,Mawlamine,Chaungzon,Pyithu,U Naing Sein Mya Maung (aka) U Mya Maung,MNP,2013,2017,163,M
+Mon State,Mawlamine,Chaungzon,Pyithu,U Win Htut (aka) U Mya Win,AMDP,10859,2017,680,M
+Mon State,Mawlamine,Chaungzon,Pyithu,U Aye Win,NLD,12636,2017,1057,M
+Mon State,Mawlamine,Chaungzon,Pyithu,U Aung Kyi Thein,USDP,19667,2017,2306,M
+Mon State,Mawlamine,Chaungzon,Pyithu,_noshow,,77706,2017,,
+Chin,Thantlang,Chin-Amyotha3,Amyotha,_invalid,,450,2017,,
+Chin,Thantlang,Chin-Amyotha3,Amyotha,Pu Zo Peng,USDP,4950,2017,273,M
+Chin,Thantlang,Chin-Amyotha3,Amyotha,Pi Za Tlem,CNDP,6482,2017,326,F
+Chin,Thantlang,Chin-Amyotha3,Amyotha,_noshow,,7353,2017,,
+Chin,Thantlang,Chin-Amyotha3,Amyotha,Pu Bawi Khing,NLD,9242,2017,566,M
+Yangon,East,Dagon Myothit (East),Pyithu,Daw Ohnmar Tin,DP (Myanmar),448,2017,23,F
+Yangon,East,Dagon Myothit (East),Pyithu,U Zaw Aung (aka) U Nyo Tun,NSP,1001,2017,24,M
+Yangon,East,Dagon Myothit (East),Pyithu,_invalid,,1184,2017,,
+Yangon,East,Dagon Myothit (East),Pyithu,Daw Khine Marlar,NDF,1772,2017,71,F
+Yangon,East,Dagon Myothit (East),Pyithu,U Nay Lin,USDP,9742,2017,683,M
+Yangon,East,Dagon Myothit (East),Pyithu,U Nay Kyaw,NLD,27357,2017,1046,M
+Yangon,East,Dagon Myothit (East),Pyithu,_noshow,,59297,2017,,
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,U Aung Zin,NDF,486,2017,11,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,U Thel Maung Maung Htet,NDP,799,2017,14,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,_invalid,,978,2017,,
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,Dr. Aung Myo,Independent,2112,2017,45,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,U Khin Win,USDP,6119,2017,139,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,U Mya Sein,NLD,15756,2017,208,M
+Yangon,East,Dagon Myothit (Seikkan),Pyithu,_noshow,,63557,2017,,
+Yangon,North,Hlaingthayar,Pyithu,U Kyaw Than,Independent,178,2017,19,M
+Yangon,North,Hlaingthayar,Pyithu,U Maung Win,Independent,370,2017,14,M
+Yangon,North,Hlaingthayar,Pyithu,U Thet Htun Maung,NDF,590,2017,22,M
+Yangon,North,Hlaingthayar,Pyithu,U Kyarr Gyi,DP (Myanmar),807,2017,29,M
+Yangon,North,Hlaingthayar,Pyithu,_invalid,,1429,2017,,
+Yangon,North,Hlaingthayar,Pyithu,U Nay Lin Oo,PCSDP,1469,2017,50,M
+Yangon,North,Hlaingthayar,Pyithu,U Aye Kyaw,ANP,1551,2017,22,M
+Yangon,North,Hlaingthayar,Pyithu,U Tin Yu,USDP,8655,2017,775,M
+Yangon,North,Hlaingthayar,Pyithu,U Win Min,NLD,31369,2017,841,M
+Yangon,North,Hlaingthayar,Pyithu,_noshow,,332098,2017,,
+Kayah,Loikaw,Hpruso1,Region/State,U Su Rel,NDP,511,2017,39,M
+Kayah,Loikaw,Hpruso1,Region/State,U Ree Chet,USDP,2424,2017,203,M
+Kayah,Loikaw,Hpruso1,Region/State,U Thel Rel,ANDPKayah,3351,2017,167,M
+Yangon,South District,Kawhmu,Pyithu,U Saw Win,PSDP,76,2017,5,M
+Yangon,South District,Kawhmu,Pyithu,U Zaw Tun,Independent,187,2017,13,M
+Yangon,South District,Kawhmu,Pyithu,Daw Sein Kyawt Nu,DP (Myanmar),324,2017,9,F
+Yangon,South District,Kawhmu,Pyithu,U Myo Maung Maung Soe,NDP,336,2017,12,M
+Yangon,South District,Kawhmu,Pyithu,U Myo Thiha Tun,Independent,381,2017,16,M
+Yangon,South District,Kawhmu,Pyithu,Daw Khin Khin Lin,MFDP,390,2017,21,F
+Yangon,South District,Kawhmu,Pyithu,Daw Nilar Soe Tint,MNCP,1194,2017,29,F
+Yangon,South District,Kawhmu,Pyithu,_invalid,,1793,2017,,
+Yangon,South District,Kawhmu,Pyithu,U Kyaw Zin Hein,USDP,13432,2017,673,M
+Yangon,South District,Kawhmu,Pyithu,U Kyaw Swe Win (aka) U Ar Luu,NLD,38028,2017,1638,M
+Yangon,South District,Kawhmu,Pyithu,_noshow,,38557,2017,,
+East Shan State,Keng Tung,Kengtung c2,Region/State,Dr Sai Ywat How,SNDP,1175,2017,51,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,Daw Nar Ta Lina (B) Yar Mi,ANDP,2046,2017,270,F
+East Shan State,Keng Tung,Kengtung c2,Region/State,_invalid,,2130,2017,,
+East Shan State,Keng Tung,Kengtung c2,Region/State,U Ar Moke,LNDP,2466,2017,55,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,U Sai Lon,SNLD,3397,2017,245,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,Dr Wunna Soe,NLD,4518,2017,468,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,U Shar Mwe La Shan,USDP,7026,2017,1454,M
+East Shan State,Keng Tung,Kengtung c2,Region/State,_noshow,,33378,2017,,
+Shan,Loilen,Kyethi,Pyithu,Daw Nan Tin Oo,SNDP,736,2017,25,F
+Shan,Loilen,Kyethi,Pyithu,Sai Owm Kham,NLD,1668,2017,137,M
+Shan,Loilen,Kyethi,Pyithu,U Sai Kyaw Khaing,USDP,3235,2017,890,M
+Shan,Loilen,Kyethi,Pyithu,_invalid,,3286,2017,,
+Shan,Loilen,Kyethi,Pyithu,Sai Aung Kyaw,SNLD,18882,2017,525,M
+Shan,Loilen,Kyethi,Pyithu,_noshow,,25644,2017,,
+Shan,Loilen,Kyethi c1,Region/State,Nan Nway Nway,SNDP,335,2017,16,M
+Shan,Loilen,Kyethi c1,Region/State,Sai Saing Lin,NLD,652,2017,70,M
+Shan,Loilen,Kyethi c1,Region/State,U Sai Shwe Hmone (aka) U Sai Late,USDP,877,2017,234,M
+Shan,Loilen,Kyethi c1,Region/State,_invalid,,932,2017,,
+Shan,Loilen,Kyethi c1,Region/State,_noshow,,11444,2017,,
+Shan,Loilen,Kyethi c1,Region/State,Sai San Mine,SNLD,11542,2017,292,M
+Shan,Loilen,Kyethi c2,Region/State,Nan Moon Aung,SNDP,370,2017,10,M
+Shan,Loilen,Kyethi c2,Region/State,Sai Thant Zin Lin,NLD,456,2017,37,M
+Shan,Loilen,Kyethi c2,Region/State,_invalid,,1375,2017,,
+Shan,Loilen,Kyethi c2,Region/State,U Kyar Bo,LNDP,1419,2017,34,M
+Shan,Loilen,Kyethi c2,Region/State,U Sai Moe Kyaw Thu,USDP,1759,2017,650,M
+Shan,Loilen,Kyethi c2,Region/State,U Khin Maung Nyunt,SNLD,7832,2017,238,M
+Shan,Loilen,Kyethi c2,Region/State,_noshow,,14458,2017,,
+Shan,Loilen,Monghsu,Pyithu,Nan Khan Yin Aung,SNDP,868,2017,28,M
+Shan,Loilen,Monghsu,Pyithu,U Win Naing,NLD,3190,2017,172,M
+Shan,Loilen,Monghsu,Pyithu,_invalid,,3351,2017,,
+Shan,Loilen,Monghsu,Pyithu,U Kyaw Tin Shwe,USDP,3484,2017,575,M
+Shan,Loilen,Monghsu,Pyithu,Sai Win Aye (aka) Sai Tun Aye,SNLD,10216,2017,396,M
+Shan,Loilen,Monghsu,Pyithu,_noshow,,24987,2017,,
+Shan,Loilen,Monghsu c1,Region/State,U Sam San,WLDDP,79,2017,8,M
+Shan,Loilen,Monghsu c1,Region/State,Nan San Oo,SNDP,576,2017,157,M
+Shan,Loilen,Monghsu c1,Region/State,_invalid,,2529,2017,,
+Shan,Loilen,Monghsu c1,Region/State,U Kyaw Khin,NLD,2817,2017,182,M
+Shan,Loilen,Monghsu c1,Region/State,U Sai Lin Myat,SNLD,4764,2017,352,M
+Shan,Loilen,Monghsu c1,Region/State,_noshow,,13243,2017,,
+Shan,Loilen,Monghsu c2,Region/State,U San Mon (aka) Sam Maine,WLDDP,107,2017,3,M
+Shan,Loilen,Monghsu c2,Region/State,U Sai Ba Tun,SNDP,502,2017,14,M
+Shan,Loilen,Monghsu c2,Region/State,Nan Sint Kham,NLD,685,2017,42,M
+Shan,Loilen,Monghsu c2,Region/State,U Sai Kan,USDP,1558,2017,146,M
+Shan,Loilen,Monghsu c2,Region/State,_invalid,,1739,2017,,
+Shan,Loilen,Monghsu c2,Region/State,Daw Nan Kaung Kham,SNLD,5753,2017,152,F
+Shan,Loilen,Monghsu c2,Region/State,_noshow,,9612,2017,,
+Sagaing,Monywa,Monywa,Pyithu,Dr. Than Htike Oo,PDP,506,2017,72,M
+Sagaing,Monywa,Monywa,Pyithu,U Nyunt Hlaing,NDP,1740,2017,136,M
+Sagaing,Monywa,Monywa,Pyithu,_invalid,,1869,2017,,
+Sagaing,Monywa,Monywa,Pyithu,U Sein Maung,NUP,2666,2017,314,M
+Sagaing,Monywa,Monywa,Pyithu,Dr.Win Myint Aung,USDP,16593,2017,3133,M
+Sagaing,Monywa,Monywa,Pyithu,U Nyunt Aung,NLD,95923,2017,6039,M
+Sagaing,Monywa,Monywa,Pyithu,_noshow,,130743,2017,,
+South Shan State,Taunggyi,NyaungShwe1,Region/State,_invalid,,1435,2017,,
+South Shan State,Taunggyi,NyaungShwe1,Region/State,U Thaw Tar,INDP,3199,2017,176,M
+South Shan State,Taunggyi,NyaungShwe1,Region/State,U San Shwe,USDP,13237,2017,793,M
+South Shan State,Taunggyi,NyaungShwe1,Region/State,U Khin Maung Win,NLD,17204,2017,897,M
+South Shan State,Taunggyi,NyaungShwe1,Region/State,_noshow,,27630,2017,,
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,U Myint Kyi,DP (Myanmar),415,2017,19,M
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,U Thet Tun,NDP,505,2017,26,M
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,Daw Nilar Ohn (aka) Daw Htike Eaindrey Oo,Independent,532,2017,45,F
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,_invalid,,1119,2017,,
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,U Khin Maung Yi (aka) Khaing Maung Yi,NDF,4597,2017,285,M
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,U Khin Maung Aye,USDP,10813,2017,1055,M
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,Dr.Maung Maung,NLD,75299,2017,3640,M
+Yangon,Yangon,Yangon-Amyotha6,Amyotha,_noshow,,251221,2017,,
