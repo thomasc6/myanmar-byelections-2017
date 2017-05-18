@@ -8,7 +8,7 @@ There will be a total of 19 contested elections across 8 states and regions and 
 330 of the 440 seats in the House of Represen-tatives are up for election. One representative each is elected for 330 constituencies and each constituency is based on existing 330 township boundaries. The remaining 110 seats are Army Representatives (AR) selected by the Commander-in-Chief according to the constitution.
 ## Amyotha Hluttaw
 The House of Nationalities is the upper house of the Pyidaungsu Hluttaw, the bicameral legislature of Myanmar. It consists of 224 member of which 168 are directly elected and 56 appointed by the Myanmar Armed Forces.
-# Region/State Hluttaw
+## Region/State Hluttaw
 Two representatives each are elected from each townships of seven regions and seven states making 644 seats. According to the constitution ethnic races whose population constitutes more than 0.1% of the country’s population also get elected in 29 seats. One third of the seats of each Regions and States Hluttaw are Army Representatives (AR) selected by the Commander-in-Chief according to the constitution.
-# Ethnic Representative
+## Ethnic Representative
 Each State and Region has a State Hlutttaw or Regional Hlutttaw made up of elected civilian members and representatives of the Armed Forces (each township constituency has 2 representatives) and according to the constitution ethnic races whose population constitutes more than 0.1% of the country’s population also get elected in 29 seats.
